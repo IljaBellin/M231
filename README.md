@@ -11,3 +11,12 @@ Hier habe ich einwenig zum [Auftrag Website Login Cracken](https://github.com/Il
 Hier habe ich eine [Excel Tabelle](https://github.com/IljaBellin/M231/blob/main/Aufträge/geburtstage.png) eingefügt.
 
 Hier ist mein [Foxtrail Resultat](https://github.com/IljaBellin/M231/blob/main/Aufträge/Foxtrail-Resultat.pdf).
+
+Hier ist mein Auftrag zu [Cookies Und Datenschutz](https://github.com/IljaBellin/M231/blob/main/Aufträge/Cookies.pdf).
+
+Hier habe isch ein [Markdown Beispiel](https://github.com/IljaBellin/M231/blob/main/Aufträge/Pinguine.md).
+
+Hier habe ich versucht ein [Passwort zu Cracken](https://github.com/IljaBellin/M231/blob/main/Aufträge/WebsiteCracken.md).
+
+Hier habe ich noch eine [Geburtstagstabelle](https://github.com/IljaBellin/M231/blob/main/Aufträge/geburtstage.png).
+
