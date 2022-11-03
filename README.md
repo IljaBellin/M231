@@ -12,7 +12,7 @@ Hier habe ich eine [Excel Tabelle](https://github.com/IljaBellin/M231/blob/main/
 
 Hier ist mein [Foxtrail Resultat](https://github.com/IljaBellin/M231/blob/main/Aufträge/Foxtrail-Resultat.pdf).
 
-Hier ist mein Auftrag zu [Cookies Und Datenschutz](https://github.com/IljaBellin/M231/blob/main/Aufträge/Cookies.pdf).
+Hier ist mein Auftrag zu [Cookies und Datenschutz](https://github.com/IljaBellin/M231/blob/main/Aufträge/Cookies.pdf).
 
 Hier habe ich ein [Markdown Beispiel](https://github.com/IljaBellin/M231/blob/main/Aufträge/Pinguine.md).
 
