@@ -16,7 +16,5 @@ Hier ist mein Auftrag zu [Cookies und Datenschutz](https://github.com/IljaBellin
 
 Hier habe ich ein [Markdown Beispiel](https://github.com/IljaBellin/M231/blob/main/Aufträge/Pinguine.md).
 
-Hier habe ich versucht ein [Passwort zu Cracken](https://github.com/IljaBellin/M231/blob/main/Aufträge/WebsiteCracken.md).
-
 Hier habe ich noch eine [Geburtstagstabelle](https://github.com/IljaBellin/M231/blob/main/Aufträge/geburtstage.png).
 
