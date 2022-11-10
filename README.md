@@ -18,3 +18,4 @@ Hier habe ich ein [Markdown Beispiel](https://github.com/IljaBellin/M231/blob/ma
 
 Hier habe ich noch eine [Geburtstagstabelle](https://github.com/IljaBellin/M231/blob/main/Aufträge/geburtstage.png).
 
+Hier ist mein Markdown zu [rechtilchen Angaben auf Websites](Rechtiliche-angaben-auf-websites.md).
