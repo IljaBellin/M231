@@ -2,11 +2,12 @@
  ---
 ## Autorisierung
 
-Die Autorisierung lasst eine bestimmte person auf etwas zugreifen.
+Die Autorisierung lässt eine bestimmte Person auf etwas zugreifen.
+Wenn man dazu autorisiert ist etwas zu sehen heisst das etwa das gleiche wie erlaubt zu sein etwas zu sehen.
 
 
 ## Authentifizierung
 
-Prüft ob die bestimmte person echt ist.
+Prüft ob die bestimmte person echt ist, zB mit
 
-![häää](https://www.okta.com/sites/default/files/styles/1640w_scaled/public/media/image/2020-10/Authentication_vs_Authorization.png?itok=uBFRCfww)
+![](./Images/Authentication_vs_Authorization.png)
